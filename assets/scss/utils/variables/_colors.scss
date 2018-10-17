@@ -1,0 +1,43 @@
+// Colors
+$color1: rgb(252, 252, 252);
+$color2: rgb(0, 100, 148);
+$color3: rgb(255, 107, 107);
+$color4: rgb(216, 242, 119);
+$color5: rgb(54, 201, 172);
+$color6: rgb(50, 67, 118);
+$color7: rgb(185, 49, 79);
+$color8: rgb(19, 118, 62);
+$color9: rgb(255, 217, 114);
+$color10: rgb(95, 84, 73);
+$color11: rgb(15, 74, 57);
+$color12: rgb(30, 30, 60);
+$color13: rgb(152, 175, 206);
+$color14: rgb(245, 245, 246);
+$color15: rgb(170, 173, 180);
+$color16: rgb(248, 248, 242);
+$color17: rgb(0, 0, 34);
+$color-grey: rgb(153, 153, 153);
+
+$color-primary: $color5;
+$color-primary-2: $color12;
+$color-accent: $color3;
+$color-accent-2: $color6;
+
+$color-background: $color14;
+$color-background-dark: $color-primary-2;
+$color-background-darkest: $color17;
+
+$color-text: rgba(black, 0.87);
+$color-text-link: $color-primary;
+$color-text-link-hover: inherit;
+$color-text-code: $color4;
+$color-text-dark: $color13;
+$color-text-code-comment: $color15;
+$color-text-code-value: $color-primary;
+
+$color-card-background: $color-background-dark;
+$color-card-text: $color-text-dark;
+
+$color-shadow: rgba(black, 0.5);
+$color-semi-transparent: rgba($color-grey, 0.2);
+$color-semi-transparent-focus: rgba($color-grey, 0.4);

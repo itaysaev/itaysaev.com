@@ -1,0 +1,99 @@
+<svg version="1.1" viewBox="0 0 455.4 276.47" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<filter id="filter4927-3-2" x="-.037856" y="-.065569" width="1.0757" height="1.1311" color-interpolation-filters="sRGB">
+			<feGaussianBlur stdDeviation="25.23858"/>
+		</filter>
+	</defs>
+	<g transform="translate(-62.495 -38.084)">
+		<path transform="matrix(.26458 0 0 .26458 62.495 38.084)" d="m693.71 60.573-410.41 236.95-222.74 128.6 966.92 558.25 633.14-365.54z" filter="url(#filter4927-3-2)" opacity=".598" style="paint-order:stroke fill markers"/>
+		<g transform="matrix(.26458 0 0 .26458 -4748.9 398.72)" opacity=".99">
+			<rect transform="matrix(.86603 -.5 .86603 .5 0 0)" x="11773" y="9571.4" width="473.9" height="1116.5" fill="#f5f5f6" opacity="1" style="paint-order:stroke fill markers"/>
+			<rect transform="matrix(.86603 -.5 .86603 .5 0 0)" x="11516" y="9571.4" width="257.19" height="1116.5" fill="#1e1e3c" opacity="1" style="paint-order:stroke fill markers"/>
+			<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+				<path d="m18567-1073.3 237.39-137.06c54.959-31.73 150.29-27.779 213.76 8.8608 63.462 36.639 70.306 91.681 15.348 123.41l-237.39 137.06" opacity="1" stroke="#1e1e3c" stroke-miterlimit="100" stroke-width="14" style="paint-order:stroke fill markers"/>
+				<path d="m18550-1063.4-67.204 38.8c-54.959 31.731-48.114 86.772 15.347 123.41 63.462 36.639 158.8 40.591 213.76 8.8608l67.204-38.8" opacity="1" stroke="#f5f5f6" stroke-miterlimit="100" stroke-width="14" style="paint-order:stroke fill markers"/>
+				<g stroke="#36c9ac">
+					<g stroke-width="7">
+						<path d="m18736-760.53 131.29-75.798" opacity=".99"/>
+						<path d="m18756-748.99 131.29-75.798" opacity=".99"/>
+						<path d="m18776-737.44 131.29-75.798" opacity=".99"/>
+						<path d="m18796-725.89 131.29-75.798" opacity=".99"/>
+						<path d="m18816-714.34 131.29-75.798" opacity=".99"/>
+						<path d="m18938-643.56 131.29-75.798" opacity=".99"/>
+						<path d="m18958-632.01 131.29-75.798" opacity=".99"/>
+						<path d="m18978-620.47 131.29-75.798" opacity=".99"/>
+						<path d="m18998-608.92 131.29-75.798" opacity=".99"/>
+						<path d="m19018-597.37 131.29-75.798" opacity=".99"/>
+						<path d="m19141-526.59 131.29-75.798" opacity=".99"/>
+						<path d="m19161-515.04 131.29-75.798" opacity=".99"/>
+						<path d="m19181-503.49 131.29-75.798" opacity=".99"/>
+						<path d="m19201-491.94 131.29-75.798" opacity=".99"/>
+						<path d="m19221-480.4 131.29-75.798" opacity=".99"/>
+					</g>
+					<path d="m18905-906.38 94.556-54.592" opacity=".99" stroke-width="15"/>
+					<g stroke-width="7">
+						<path d="m18943-880.39 131.29-75.798" opacity=".99"/>
+						<path d="m18963-868.85 131.29-75.798" opacity=".99"/>
+						<path d="m18983-857.3 131.29-75.799" opacity=".99"/>
+						<path d="m19003-845.75 131.29-75.799" opacity=".99"/>
+						<path d="m19023-834.21 131.29-75.799" opacity=".99"/>
+					</g>
+					<path d="m19108-789.41 94.556-54.592" opacity=".99" stroke-width="15"/>
+					<g stroke-width="7">
+						<path d="m19146-763.42 131.29-75.798" opacity=".99"/>
+						<path d="m19166-751.87 131.29-75.798" opacity=".99"/>
+						<path d="m19186-740.33 131.29-75.798" opacity=".99"/>
+						<path d="m19206-728.78 131.29-75.798" opacity=".99"/>
+						<path d="m19226-717.23 131.29-75.798" opacity=".99"/>
+					</g>
+					<path d="m19311-672.44 94.556-54.592" opacity=".99" stroke-width="15"/>
+					<g stroke-width="7">
+						<path d="m19349-646.45 131.29-75.798" opacity=".99"/>
+						<path d="m19369-634.9 131.29-75.798" opacity=".99"/>
+						<path d="m19389-623.35 131.29-75.798" opacity=".99"/>
+						<path d="m19409-611.81 131.29-75.798" opacity=".99"/>
+						<path d="m19429-600.26 131.29-75.798" opacity=".99"/>
+					</g>
+					<path d="m19093-1014.7 94.556-54.592" opacity=".99" stroke-width="15"/>
+					<g stroke-width="7">
+						<path d="m19131-988.74 131.29-75.798" opacity=".99"/>
+						<path d="m19151-977.2 131.29-75.798" opacity=".99"/>
+						<path d="m19171-965.65 131.29-75.798" opacity=".99"/>
+						<path d="m19191-954.1 131.29-75.798" opacity=".99"/>
+						<path d="m19211-942.56 131.29-75.798" opacity=".99"/>
+					</g>
+					<path d="m19296-897.76 94.556-54.592" opacity=".99" stroke-width="15"/>
+					<g stroke-width="7">
+						<path d="m19334-871.77 131.29-75.798" opacity=".99"/>
+						<path d="m19354-860.22 131.29-75.798" opacity=".99"/>
+						<path d="m19374-848.68 131.29-75.798" opacity=".99"/>
+						<path d="m19394-837.13 131.29-75.798" opacity=".99"/>
+						<path d="m19414-825.58 131.29-75.798" opacity=".99"/>
+					</g>
+					<path d="m19498-780.79 94.556-54.592" opacity=".99" stroke-width="15"/>
+					<g stroke-width="7">
+						<path d="m19536-754.8 131.29-75.798" opacity=".99"/>
+						<path d="m19556-743.25 131.29-75.798" opacity=".99"/>
+						<path d="m19576-731.7 131.29-75.798" opacity=".99"/>
+						<path d="m19596-720.16 131.29-75.798" opacity=".99"/>
+						<path d="m19616-708.61 131.29-75.798" opacity=".99"/>
+					</g>
+					<g stroke-width="6.8128">
+						<path d="m18728-1004.7 234.85-135.59" opacity=".99"/>
+						<path d="m18748-993.19 234.85-135.59" opacity=".99"/>
+						<path d="m18768-981.64 234.85-135.59" opacity=".99"/>
+						<path d="m18708-1016.3 234.85-135.59" opacity=".99"/>
+					</g>
+				</g>
+			</g>
+			<g fill="#36c9ac" font-weight="bold" letter-spacing="0px" word-spacing="0px">
+				<text transform="matrix(.86603 -.5 1 .57735 0 0)" x="11809.604" y="8447.7129" font-size="64px" opacity=".99" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="11809.604" y="8447.7129">Web Dev</tspan></text>
+				<g font-size="37.333px">
+					<text transform="matrix(.86603 -.5 1 .57735 0 0)" x="11573.488" y="8688.2803" opacity=".99" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="11573.488" y="8688.2803">HTML</tspan></text>
+					<text transform="matrix(.86603 -.5 1 .57735 0 0)" x="11571.758" y="8889.4258" opacity=".99" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="11571.758" y="8889.4258">CSS</tspan></text>
+					<text transform="matrix(.86603 -.5 1 .57735 0 0)" x="11572.559" y="9092.3936" opacity=".99" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="11572.559" y="9092.3936">JS</tspan></text>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

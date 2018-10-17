@@ -1,0 +1,44 @@
+.btn,
+button {
+  position: relative;
+	display: inline-block;
+	vertical-align: top;
+  padding: 0.6em 2em;
+  text-align: center;
+  text-transform: uppercase;
+	letter-spacing: 2px;
+  border-radius: $border-radius-big;
+  border: 2px solid $color-primary;
+  color: $color-primary;
+  background-color: transparent;
+  box-shadow: none;
+	@include respond-to(medium) {
+		cursor: pointer;
+		transition: all 0.3s;
+		&:hover,
+		&:focus {
+			color: $color-primary;
+			padding-left: 2.6em;
+			padding-right: 2.6em;
+			background-color: rgba($color-background, 0.05);
+		}
+	}
+  &[type=submit] {
+    border-radius: 30px;
+  }
+  &:disabled,
+  &.disabled {
+    opacity: 0.26;
+  }
+  &.flat {
+    color: $color-primary;
+    background: transparent;
+    box-shadow: none;
+    &:hover {
+      background-color: $color-semi-transparent;
+    }
+    &:active {
+      background-color: $color-semi-transparent-focus;
+    }
+  }
+}

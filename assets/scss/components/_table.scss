@@ -1,0 +1,44 @@
+table {
+	max-width: 100%;
+	overflow-x: auto;
+  table-layout: fixed;
+  border-collapse: collapse;
+	text-align: left;
+	width: 100%;
+
+	display: block;
+	margin: 0 auto;
+	width: fit-content;
+	white-space: nowrap;
+
+	@include respond-to(small) {
+		display: table;
+		width: 100%;
+	}
+}
+
+td {
+	padding: 1em;
+  font-weight: normal;
+  font-size: 1em;
+	transition: all 0.3s linear;
+	border-bottom: 1px solid;
+	&:hover {
+		color: $color-primary;
+	}
+}
+
+th {
+	padding: 0.6em 1em;
+  font-weight: bold;
+  font-size: 1em;
+	color: $color-primary;
+	border-bottom: 3px solid;
+}
+
+// tbody tr {
+// 	transition: all 0.3s linear;
+// 	&:hover {
+// 		background-color: $color-background;
+// 	}
+// }

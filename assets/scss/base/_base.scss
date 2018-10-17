@@ -1,0 +1,74 @@
+$body-min-width: 320px;
+$body-max-width: 3000px;
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+html {
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+a {
+  transition: color 0.3s, border-color 0.3s, background-color 0.3s, text-decoration 0.3s, box-shadow 0.3s, opacity 0.3s;
+  color: $color-text-link;
+	&:hover,
+	.nuxt-link-exact-active,
+	&:focus {
+    color: $color-text-link-hover;
+  }
+  &.card {
+    color: $color-text-link;
+		&:hover,
+		&:focus {
+      color: $color-card-text;
+    }
+  }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+button {
+  cursor: pointer;
+}
+
+body {
+  @include darkest();
+	min-width: $body-min-width;
+	max-width: $body-max-width;
+	margin: 0 auto;
+}
+
+.img-container {
+  line-height: 0;
+}
+
+pre.highlight {
+	padding: 0.6em 1em;
+  border-radius: 6px;
+  overflow: auto;
+}
+
+svg path,
+svg g,
+svg circle {
+	transition: fill 0.3s, stroke 0.3s;
+}
+
+.hidden {
+	display: none;
+}
+
+.visually-hidden {
+	position: absolute;
+	clip: rect(1px, 1px, 1px, 1px);
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+}

@@ -1,0 +1,53 @@
+body {
+  font-family: $base-font-family;
+  font-size: $font-size-regular;
+  line-height: $base-line-height;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+	text-rendering: optimizeLegibility;
+
+	@include respond-to(small) {
+		font-size: $font-size-regular + $font-size-modificator;
+	}
+}
+
+h1 {
+	font-size: $font-size-x-large;
+	font-weight: normal;
+	line-height: 1.2;
+	@include respond-to(x-small) {
+		font-size: $font-size-xx-large;
+	}
+}
+
+h2 {
+	font-size: $font-size-x-large;
+	font-weight: normal;
+	line-height: 1.2;
+	@include respond-to(x-small) {
+		font-size: $font-size-xx-large;
+	}
+}
+
+h3 {
+	font-size: $font-size-x-large;
+	font-weight: normal;
+}
+
+h4 {
+	font-size: $font-size-large;
+}
+
+h5 {
+	font-size: $font-size-regular;
+}
+
+h6 {
+	font-size: $font-size-small;
+}
+
+pre code {
+	font-family: $mono-font-family;
+}

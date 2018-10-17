@@ -1,0 +1,150 @@
+@keyframes ripple {
+  from {
+    transform: scale(0);
+    opacity: 1;
+  }
+  to {
+    transform: scale(400);
+    opacity: 0;
+  }
+}
+
+@keyframes fillColors {
+  0% {
+    fill: white;
+  }
+  25% {
+    fill: $color-accent;
+  }
+  50% {
+    fill: $color-primary-2;
+  }
+  75% {
+    fill: $color-accent-2;
+  }
+  100% {
+    fill: white;
+  }
+}
+
+@keyframes strokeColors {
+  0% {
+    stroke: $color-primary;
+  }
+  25% {
+    stroke: $color-accent;
+  }
+  50% {
+    stroke: $color-primary-2;
+  }
+  75% {
+    stroke: $color-accent-2;
+  }
+  100% {
+    stroke: $color-primary;
+  }
+}
+
+@keyframes borderColors {
+  0% {
+    border-color: $color5;
+  }
+  25% {
+    border-color: $color3;
+  }
+  50% {
+    border-color: $color2;
+  }
+  75% {
+    border-color: $color4;
+  }
+  100% {
+    border-color: $color5;
+  }
+}
+
+@keyframes dash {
+  0% {
+    stroke-dashoffset: $dash-offset;
+  }
+  50% {
+    stroke-dashoffset: $dash-offset/4;
+    transform: rotate(135deg);
+  }
+  100% {
+    stroke-dashoffset: $dash-offset;
+    transform: rotate(450deg);
+  }
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(359deg);
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+	0% {
+		transform: translate3d(0, 2em, 0);
+	}
+	100% {
+		transform: none;
+	}
+}
+
+@keyframes slideFromRight {
+  0% {
+    transform: translateX(101%);
+  }
+  100% {
+    transform: none;
+  }
+}
+
+@keyframes slideToRight {
+  0% {
+    transform: none;
+  }
+  100% {
+    transform: translateX(101%);
+  }
+}
+
+@keyframes levitate {
+  25% {
+    transform: translate3d(0, 5%, 0);
+  }
+  75% {
+    transform: translate3d(0, -5%, 0);
+  }
+}
+
+@keyframes slideDown {
+	from {
+		transform: scaleY(0)
+	}
+	to {
+		transform: scaleY(1)
+	}
+}
